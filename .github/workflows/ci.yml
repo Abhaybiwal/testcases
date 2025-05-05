@@ -43,4 +43,4 @@ jobs:
           DB_HOST: localhost
           DB_PORT: 5432
         run: |
-          python manage.py test  # or pytest if you're using pytest-django
+          python manage.py test  
